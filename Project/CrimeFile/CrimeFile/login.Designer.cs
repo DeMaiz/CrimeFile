@@ -1,6 +1,6 @@
 ﻿namespace CrimeFile
 {
-    partial class Form1
+    partial class login
     {
         /// <summary>
         /// Required designer variable.
